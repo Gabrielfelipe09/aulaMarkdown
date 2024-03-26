@@ -16,3 +16,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+## Engenheria de requisitos
+
+https://images.app.goo.gl/jExy6d33Tp2YHJVFA
