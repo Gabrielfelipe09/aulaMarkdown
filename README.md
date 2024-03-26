@@ -19,4 +19,4 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ## Engenheria de requisitos
 
-https://images.app.goo.gl/jExy6d33Tp2YHJVFA
+#CONCEITO: A engenharia dos requisitos pode ser entendida como um sistema de requisitos elaborativos e cooperativo para analise de um problema com variedade de formatos e informações paara uso de checagem
